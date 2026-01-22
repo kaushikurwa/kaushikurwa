@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋 I’m Kaushik</h1>
-<h3 align="center">Autonomous Systems Enthusiast | Embedded Systems Developer | Machine Learning Practitioner</h3>
+<h3 align="center">Robotics Engineer</h3>
 
 ---
 
