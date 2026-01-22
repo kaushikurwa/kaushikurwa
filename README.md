@@ -15,12 +15,13 @@
 
 ## What I’m Learning
 
-- ROS2
-- Simultaneous Localization and Mapping (SLAM)
+- ROS/ROS2
+- ORB SLAM3(Simultaneous Localization and Mapping)
 - Computer Vision
-- Bi-GRU
-- Knowledge Graphs
+- Nav2, MoveIt2
+- Solidworks
 - Multimodal Learning
+- Kinematics and Dynamics
 
 ---
 
